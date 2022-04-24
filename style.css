@@ -1,0 +1,45 @@
+html{
+    background-color: skyblue;
+}
+fieldset{
+    background-color: rgb(12, 6, 97);
+    border-style: none;
+    margin: 50px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+
+
+.formHeading{
+    color: skyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:20px;
+    margin-left: 30px;
+    font-weight: 600;
+}
+#mail,#pass{
+    margin-left: 80px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    height: 25px;
+    border-style: none;
+    width: 200px;
+}
+#submitAnswer{
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    width: 150px;
+    height: 25px;
+    color: blue;
+}
+.right{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#tick{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
